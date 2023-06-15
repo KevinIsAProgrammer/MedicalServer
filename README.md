@@ -1,9 +1,8 @@
-README
 To run the server: `./mvnw spring-boot:run` 
 
 By default, the server runs on port 8080 on localhost.
 
-Description
+**Description**
 
 This REST server is assumed to be part of a larger
 family of medical services, which may need to reference
